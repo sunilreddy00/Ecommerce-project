@@ -6,6 +6,7 @@
   background-color: rgba(128, 128, 128, 0.097);
   width: 18rem;
 }
+
 .category .card-name-price {
   display: flex;
   flex-direction: row;
@@ -35,4 +36,4 @@
 
 .category .card-img-top {
   height: 300px !important;
-}
+};
